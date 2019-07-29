@@ -1,0 +1,70 @@
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  /*font-size:15px;*/
+  font-weight:400;
+  color:#FFFFFF;
+    }
+
+.container{
+  background-image:linear-gradient(#95B9C7,#D6EDFD);
+ //background-color:#95B9C7;
+    padding:30px;
+  color:#ffffff;
+  box-shadow:5px 10px;
+    }
+
+
+
+ .card:hover{
+  background:#94A8CB;
+  border-radius:5px;
+  border:none;
+  box-shadow:5px 5px 10px #94A8CB;
+}
+
+h1{
+  padding:30px;
+ // background-color:#E2EAEC;
+}
+
+#name{
+  font-size:50px;
+  letter-spacing:4px;
+  text-shadow: 2px 3px #1170A0;
+}
+
+
+#mainheading{
+  background-color:		#E2EAEC;
+  color:white;
+  
+}
+
+.heading{
+  margin-left:100px;
+  }
+
+
+#footer1{
+  padding-top:0;
+  padding-left:0;
+  padding-bottom:0;
+  text-align:center;
+  font-size:50px;
+ }
+
+.card{
+  color:#368BC1;
+}
+
+.card table{
+  color:#368BC1;
+}
+
+
+  img:hover {
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+    
+}
+
